@@ -8,7 +8,7 @@ detector: one USRP continuously transmits a sinusoidal carrier, the other receiv
 flags an intrusion when both the received signal power and its statistical variation
 deviate significantly from a learned baseline.
 
-**Authors:** Prema Soumya Chandrika, Shantanu Undirkalle, P Srihari
+**Author:** P Srihari
 
 ## How it works
 
