@@ -31,6 +31,12 @@ Movement or obstruction in the propagation path perturbs the received signal thr
 reflection, scattering, and attenuation, which shows up as a deviation from the learned
 static-environment baseline.
 
+## Demo
+
+https://github.com/PSrihari2000/Intrusion_detection_using_GNU_Radio_USRP/raw/main/demo/Intrusion_Detection_Demo.mp4
+
+[`demo/Intrusion_Detection_Demo.mp4`](demo/Intrusion_Detection_Demo.mp4) — the system running live, showing the learning phase and an intrusion being flagged.
+
 ## Files
 
 | File | Description |
